@@ -1,9 +1,9 @@
 -- ============================================================
 -- VUA-SEN307 Database Systems
 -- Week 8 Practical, Lab 6: Aggregate Functions, Grouping and Subqueries
--- Name:        <YOUR FULL NAME>
--- Matric No:   <YOUR MATRIC NUMBER>
--- Date:        <DATE>
+-- Name:        OGBONNA CHIDOZIE ALEXANDER
+-- Matric No:   VUG/SEN/24/12200
+-- Date:        23-11-2026
 -- File:        lab6_queries.sql
 -- ============================================================
 -- Tables used (from Week 6):
@@ -13,8 +13,7 @@
 --   Enrolment(student_id, course_id)
 -- ============================================================
 
-USE university_db;   -- change to the name of your Week 6 database
-
+USE SEN307_12200;  
 
 -- ------------------------------------------------------------
 -- Task 1: Count the students enrolled in each course,
